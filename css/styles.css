@@ -1,0 +1,156 @@
+h1{
+  font-family: 'Merriweather', serif;
+  font-size: 4rem;
+}
+h2{
+  font-size: 1.3rem;
+  text-align: center;
+
+}
+h3{
+  font-size: 1.3rem;
+  padding-top: 5% 0 3% 0;
+}
+h4{
+  font-size: 1.1rem;
+  font-weight: 500;
+  padding-bottom: 1%;
+  padding-top: 4%;
+}
+body{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #FAF1E6;
+}
+p{
+  font-size: 1rem;
+}
+a:hover{
+  color: #064420;
+}
+a{
+  color: #387C6D;
+}
+
+.logo{
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  text-align: center;
+  border-top: solid;
+  border-bottom: solid;
+  color: #387C6D;
+}
+.logo-box {
+  padding: 5% 45% 0 45%;
+}
+/* Containers */
+.container-fluid {
+  padding: 5% 5%;
+}
+
+/* intro */
+.breadcrumb-item{
+  font-size: 1.25rem;
+  font-weight: 200;
+  font-family: 'Montserrat', sans-serif;
+  margin:10px 20px;
+}
+#bio{
+  padding-top: 2%;
+  font-size: 1rem;
+  font-style: italic;
+}
+
+/* sections */
+.white-section{
+  background-color: #FDFAF6;
+}
+/* about me */
+.topic{
+  text-align: center;
+    padding: 2%;
+}
+.description{
+  padding: 1% 19%;
+  line-height: 2;
+}
+/* outside of work */
+.pictures{
+  padding: 5% 15%;
+}
+.card{
+  background-color: #FDFAF6;
+  padding: 0.5%;
+  border-color: #FDFAF6;
+}
+.card-title{
+  font-size: 1.2rem;
+}
+.card-text{
+  font-size: 0.8rem;
+}
+.hobbies{
+  padding-bottom: 5%;
+}
+
+/* footer */
+.footer-link {
+  color: #064420;
+  font-family: 'Montserrat', sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+.footer{
+  text-align: center;
+  font-size: 0.8rem;
+  padding: 8% 20%;
+}
+
+/* resume */
+#resume{
+  font-size: 0.9rem;
+}
+.content{
+  padding: 4% 15%;
+}
+.date {
+  text-align: right;
+}
+.resume_title{
+  padding-top: 8%;
+  padding-bottom: 4%;
+}
+.resume_description{
+  font-size: 0.9rem;
+  line-height: 2;
+}
+.role{
+  font-weight: bold;
+}
+li{
+  line-height: 2;
+}
+.col-sm-2{
+  line-height: 2;
+}
+/* contact */
+form{
+  padding: 5% 35%;
+}
+.form-label {
+    margin-bottom: 0.5rem;
+    margin-top: 0.25rem;
+}
+
+/* project */
+.app{
+  width: 35%;
+  padding: 5px;
+}
+.projects{
+  text-align:center;
+}
+.project-title{
+  padding: 4%;
+  margin-top: 5%
+}
